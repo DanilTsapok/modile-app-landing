@@ -18,31 +18,21 @@
 .bg-right-content {
     width: 50%;
 }
-
+.bg-right-content img{
+    transform: scale(0);
+}
 .bg-right-content img {
+    transform: scale(1);
+    transition: 5s all ease-in-out;
     width: 616px;
     height: 780px;
     position: absolute;
     right: 78px;
-    animation: moving 10s infinite;
+
 }
 
 
 
-/* @keyframes moving {
-    0% {
-        opacity: 0;
-        transform: translateX(800px);
-    }
-    50% {
-        opacity: 1;
-        transform: translateX(0) ;
-    }
-    100% {
-        opacity: 0;
-        transform: translateX(800px) ;
-    }
-} */
 
 .bg-title-mashApp {
     font-family: 'Roboto', sans-serif;

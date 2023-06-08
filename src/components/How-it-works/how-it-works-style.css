@@ -4,6 +4,34 @@
     padding: 79px 149px 72px ;
     
 }
+.anim_phone{
+    animation: move1 3s ;
+}
+@keyframes move1 {
+    0%{ 
+        opacity: 0;
+        transform: translate(+100px);
+    }
+    100%{
+        opacity: 1;
+        transform: translate(0);
+    }
+  
+}
+.anim{
+    animation: move 5s ;
+}
+@keyframes move {
+    0%{ 
+        opacity: 0;
+        transform: translate(-150px);
+    }
+    100%{
+        opacity: 1;
+        transform: translate(0);
+    }
+  
+}
 
 .main-title {
     width: 100%;

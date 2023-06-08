@@ -1,8 +1,8 @@
 import React from "react";
 import "./options-style.css";
 
-import icon_apple from "./img/apple logo.png";
-import icon_google_play from "./img/google-play.png";
+import icon_apple from "../../assets/apple logo.png";
+import icon_google_play from "../../assets/google-play.png";
 
 const Options=(props)=>{
     return(

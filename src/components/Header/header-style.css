@@ -48,12 +48,11 @@ header {
     transition: 0.3s all ease;
 }
 
-/* .nav a:hover {
-    font-size: 21px;
-    border-radius: 20px;
-    background-color: #76e66c;
-    text-decoration: underline;
-    color: white;
+.nav a:hover {
+    font-size: 20px;
+    /* text-decoration: underline; */
+    text-shadow: 1px 1px 1px black;
+    color: #FEDE60;
     transition: 0.3s all ease;
-    border-bottom: 5px solid White;
-} */
+    border-bottom: 5px solid #FEDE60;
+}

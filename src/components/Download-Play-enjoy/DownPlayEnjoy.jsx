@@ -1,6 +1,6 @@
 import React from "react";
 import "./down-play-enjoy-style.css";
-import iphones from "./img/iphones.png";
+import iphones from "../../assets/phones.png";
 function DownPlayEnjoy() {
   return (
     <div>

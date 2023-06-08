@@ -1,8 +1,11 @@
 import React from "react";
 import "./bg-style.css";
-import iphone from "./img/iphone.png";
+import iphone from "../../assets/iphone.png";
 import Options from "../Options/options";
-function bg() {
+
+
+
+function Bg() {
   return (
     <div>
       <div className="bg">
@@ -18,13 +21,13 @@ function bg() {
             Don’t leave your shopping to the last minute. The more time you have
             to shop around, the more you can negotiate.
           </div>
-          <Options  className='options'/>
+          <Options className="options" />
         </div>
-        <div className="bg-right-content">
+        <div className='bg-right-content' id="image">
           <img src={iphone} alt="" />
         </div>
       </div>
     </div>
   );
 }
-export default bg;
+export default Bg;

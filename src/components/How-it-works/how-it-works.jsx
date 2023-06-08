@@ -1,9 +1,9 @@
 import React from "react";
 import "./how-it-works-style.css";
 import Options from "../Options/options";
-import register from "./img/register.png"
-import fav from "./img/fav.png"
-import listen from './img/listen.png'
+import register from "../../assets/register.png"
+import fav from "../../assets/fav.png"
+import listen from '../../assets/listen.png'
 function Howworks() {
   return (
     <div>

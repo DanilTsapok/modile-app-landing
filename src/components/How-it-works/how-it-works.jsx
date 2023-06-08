@@ -42,7 +42,7 @@ const Howworks = () => {
       }
 
       if (currentScrollY >600 ){
-        yellow_line.style.transition= '20s ease ';
+        yellow_line.style.transition= '15s ease ';
         yellow_line.style.height='100%';
       }
     };

@@ -14,7 +14,9 @@ const Options=(props)=>{
             </div>
             <div className="Google-play">
               <img src={icon_google_play} alt="" />
-              <a href="#">Google-play</a>
+              <a href="#">Google-play
+              
+              </a>
             </div>
           </div>
         </div>

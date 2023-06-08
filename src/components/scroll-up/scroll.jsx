@@ -6,7 +6,7 @@ function Scroll() {
     <>
       <div className="scroll">
         <div className="scroll-content">
-          <a href="">UP</a>
+          <a href=".header-logo">UP</a>
         </div>
       </div>
     </>

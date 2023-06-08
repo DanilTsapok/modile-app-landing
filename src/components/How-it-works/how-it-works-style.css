@@ -5,7 +5,7 @@
     
 }
 .anim_phone{
-    animation: move1 3s ;
+    animation: move1 0.4s ;
 }
 @keyframes move1 {
     0%{ 
@@ -19,7 +19,7 @@
   
 }
 .anim{
-    animation: move 5s ;
+    animation: move .5s ;
 }
 @keyframes move {
     0%{ 

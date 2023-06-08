@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/modile-app-landing/static/css/main.0156a453.css",
-    "main.js": "/modile-app-landing/static/js/main.70416198.js",
+    "main.css": "/modile-app-landing/static/css/main.77526392.css",
+    "main.js": "/modile-app-landing/static/js/main.786b0937.js",
     "static/js/787.a1e7b178.chunk.js": "/modile-app-landing/static/js/787.a1e7b178.chunk.js",
     "static/media/iphone.png": "/modile-app-landing/static/media/iphone.3554d987219498cdae6a.png",
     "static/media/phones.png": "/modile-app-landing/static/media/phones.5fedef49d3f80fd2bd7e.png",
@@ -9,12 +9,12 @@
     "static/media/listen.png": "/modile-app-landing/static/media/listen.72e13fa43d276f1b7a4d.png",
     "static/media/register.png": "/modile-app-landing/static/media/register.cf1574e28b262f62a008.png",
     "index.html": "/modile-app-landing/index.html",
-    "main.0156a453.css.map": "/modile-app-landing/static/css/main.0156a453.css.map",
-    "main.70416198.js.map": "/modile-app-landing/static/js/main.70416198.js.map",
+    "main.77526392.css.map": "/modile-app-landing/static/css/main.77526392.css.map",
+    "main.786b0937.js.map": "/modile-app-landing/static/js/main.786b0937.js.map",
     "787.a1e7b178.chunk.js.map": "/modile-app-landing/static/js/787.a1e7b178.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0156a453.css",
-    "static/js/main.70416198.js"
+    "static/css/main.77526392.css",
+    "static/js/main.786b0937.js"
   ]
 }
